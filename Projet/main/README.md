@@ -5,7 +5,7 @@ de la matière C3P.
 
 Pour utiiser ce magnifique programme, vous devrez construire un fichier de configuration ("conf.txt" à remplir)
 
-Voilà les règles à suivre :
+### Voilà les règles à suivre :
 
 - Vous devrez utiliser des mots prédéfinis pour construire le fichier.
 - Vous devrez mettre un mot par ligne, sauf dans un cas (voir plus bas)
