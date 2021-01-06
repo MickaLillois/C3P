@@ -3,7 +3,12 @@
 Bonjour à toi jeune Padawan ! Si tu es ici, c'est pour utiliser ma super application créée dans le cadre 
 de la matière C3P.
 
-Pour utiiser ce magnifique programme, vous devrez construire un **fichier de configuration** ("conf.txt" à remplir)
+Pour utiiser ce magnifique programme, vous devrez construire un **fichier de configuration** ("conf.txt" à modifier, il contient une configuration initiale que vous pouvez tester).
+
+```
+go run ./mainV2.go <votre chaîne de caractères>
+```
+> Vous pouvez aussi rajouter l'option **-debug** afin d'obtenir un affichage étape par étape. 
 
 ### Voilà les règles à suivre :
 
